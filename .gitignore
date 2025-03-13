@@ -1,3 +1,8 @@
+sample/*
+patterns.json
+*_decompile_*/
+*.jar
+nul
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
